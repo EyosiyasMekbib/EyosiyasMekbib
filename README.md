@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eyosiyas Mekbib</h1>
-<h3 align="center">Code Whisperer: Turning Complex Problems into Elegant Solutions</h3>
+<h3 align="center">Turning Complex Problems into Elegant Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyosiyasmekbib&label=Profile%20views&color=0e75b6&style=flat" alt="eyosiyasmekbib" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyosiyasmekbib" alt="eyosiyasmekbib" /></a> </p>
 
 - 🔭 I’m currently working on **VP Scraper API**
 
